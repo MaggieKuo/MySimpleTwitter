@@ -1,0 +1,145 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:2:1-55:12
+	package
+		ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:8:22-78
+application
+ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:10:5-53:19
+MERGED from [com.github.Raizlabs.DBFlow:dbflow:4.0.0-beta5] /Users/perfumekuo/.android/build-cache/4ecec14388df3dd5db48eb4abc093536e9eb9048/output/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] /Users/perfumekuo/.android/build-cache/9570fd0a1cf379d7def9d9d150994ea2d645a423/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.2.0] /Users/perfumekuo/.android/build-cache/3785aa8ce9a48bc565b9cefc4003e26aabcf895b/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/perfumekuo/.android/build-cache/bfe9d677fbc8a2dd94657fc0e7eae86d39c50b1a/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/perfumekuo/.android/build-cache/bae17b15d5ad6ac257c0b8ae46bf5b50b4f76e5d/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/perfumekuo/.android/build-cache/8b717f42d6d2cfdf40cc91544512576e4d3427dd/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] /Users/perfumekuo/.android/build-cache/58f5356d3ee0aea9a93e55c2d086f4440e7875d2/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/perfumekuo/.android/build-cache/a8c8ded6b97dd3d85b07c827afe78bdc5776e582/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/perfumekuo/.android/build-cache/a6cccae7f3e8cde9cbb653866fd6864d75301b23/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/perfumekuo/.android/build-cache/439b75a29ca6cf2a7594d2ba9f717946dd0d2a16/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/perfumekuo/.android/build-cache/5d6bfc43f866d5f9c90a45ab94fe8cf42e0de0a5/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/perfumekuo/.android/build-cache/47ee630007cb07aba094f9ee251bc5204098405b/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/perfumekuo/.android/build-cache/80070e3d77370b30607784238cf89982e349f0ee/output/AndroidManifest.xml:25:5-20
+	android:allowBackup
+		ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:14:9-52
+	android:name
+		ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:11:9-43
+activity#com.mag.codepath.simpletweet.activities.LoginActivity
+ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:15:9-34:20
+	android:label
+		ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:17:13-45
+	android:theme
+		ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:16:13-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:22:27-74
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:24:13-33:29
+action#android.intent.action.VIEW
+ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:27:17-76
+	android:name
+		ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:27:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:28:17-78
+	android:name
+		ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:28:27-75
+data
+ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:30:17-32:46
+	android:host
+		ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:31:21-49
+	android:scheme
+		ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:32:21-43
+activity#com.mag.codepath.simpletweet.activities.TimelineActivity2
+ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:35:9-37:63
+	android:label
+		ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:37:13-60
+	android:name
+		ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:36:13-57
+provider#com.mag.codepath.simpletweet.db.TwitterDatabase_Provider
+ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:39:9-42:39
+	android:authorities
+		ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:41:13-91
+	android:exported
+		ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:42:13-36
+	android:name
+		ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:40:13-56
+service#com.mag.codepath.simpletweet.services.LoadTweetsIntentService
+ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:44:9-46:40
+	android:exported
+		ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:45:13-61
+activity#com.mag.codepath.simpletweet.activities.TimelineActivity
+ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:48:9-51:51
+	android:label
+		ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:50:13-60
+	android:theme
+		ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:51:13-48
+	android:name
+		ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:49:13-56
+activity#com.mag.codepath.simpletweet.activities.ComposeActivity
+ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:52:9-73
+	android:name
+		ADDED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml:52:19-61
+uses-sdk
+INJECTED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.github.Raizlabs.DBFlow:dbflow:4.0.0-beta5] /Users/perfumekuo/.android/build-cache/4ecec14388df3dd5db48eb4abc093536e9eb9048/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.codepath.libraries:android-oauth-handler:1.1.0] /Users/perfumekuo/.android/build-cache/8b8f85526b0848b004f03726590fd27afc00c731/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.amitshekhar.android:android-networking:0.4.0] /Users/perfumekuo/.android/build-cache/5c7bca3c58c88e4eade33d48b8e389230823f43a/output/AndroidManifest.xml:23:5-25:41
+MERGED from [com.jakewharton:butterknife:8.5.1] /Users/perfumekuo/.android/build-cache/5a0665c4abe7ad4119171168564d84665abaeda1/output/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] /Users/perfumekuo/.android/build-cache/9570fd0a1cf379d7def9d9d150994ea2d645a423/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.2.0] /Users/perfumekuo/.android/build-cache/3785aa8ce9a48bc565b9cefc4003e26aabcf895b/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/perfumekuo/.android/build-cache/bfe9d677fbc8a2dd94657fc0e7eae86d39c50b1a/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/perfumekuo/.android/build-cache/bae17b15d5ad6ac257c0b8ae46bf5b50b4f76e5d/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/perfumekuo/.android/build-cache/8b717f42d6d2cfdf40cc91544512576e4d3427dd/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/perfumekuo/.android/build-cache/b47399dcb85f63a5eeed9a4dcd4d22f33317b55d/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] /Users/perfumekuo/.android/build-cache/58f5356d3ee0aea9a93e55c2d086f4440e7875d2/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] /Users/perfumekuo/.android/build-cache/a8c8ded6b97dd3d85b07c827afe78bdc5776e582/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/perfumekuo/.android/build-cache/a6cccae7f3e8cde9cbb653866fd6864d75301b23/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/perfumekuo/.android/build-cache/439b75a29ca6cf2a7594d2ba9f717946dd0d2a16/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/perfumekuo/.android/build-cache/5d6bfc43f866d5f9c90a45ab94fe8cf42e0de0a5/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/perfumekuo/.android/build-cache/47ee630007cb07aba094f9ee251bc5204098405b/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] /Users/perfumekuo/.android/build-cache/80070e3d77370b30607784238cf89982e349f0ee/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] /Users/perfumekuo/.android/build-cache/3785aa8ce9a48bc565b9cefc4003e26aabcf895b/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/AndroidManifest.xml

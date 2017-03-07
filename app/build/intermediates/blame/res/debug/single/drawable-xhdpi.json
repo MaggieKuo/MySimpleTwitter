@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/build/intermediates/res/merged/debug/drawable-xhdpi/bird.png",
+        "source": "/Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/res/drawable-xhdpi/bird.png"
+    },
+    {
+        "merged": "/Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/build/intermediates/res/merged/debug/drawable-xhdpi/mail.png",
+        "source": "/Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/res/drawable-xhdpi/mail.png"
+    },
+    {
+        "merged": "/Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/build/intermediates/res/merged/debug/drawable-xhdpi/write.png",
+        "source": "/Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/res/drawable-xhdpi/write.png"
+    }
+]

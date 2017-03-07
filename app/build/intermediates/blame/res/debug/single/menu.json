@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/build/intermediates/res/merged/debug/menu/login.xml",
+        "source": "/Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/res/menu/login.xml"
+    },
+    {
+        "merged": "/Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/build/intermediates/res/merged/debug/menu/menu_timeline.xml",
+        "source": "/Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/src/main/res/menu/menu_timeline.xml"
+    }
+]

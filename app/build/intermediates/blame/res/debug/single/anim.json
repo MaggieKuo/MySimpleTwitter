@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/perfumekuo/.android/build-cache/bfe9d677fbc8a2dd94657fc0e7eae86d39c50b1a/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/perfumekuo/.android/build-cache/bfe9d677fbc8a2dd94657fc0e7eae86d39c50b1a/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/perfumekuo/.android/build-cache/3785aa8ce9a48bc565b9cefc4003e26aabcf895b/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/perfumekuo/.android/build-cache/bfe9d677fbc8a2dd94657fc0e7eae86d39c50b1a/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/perfumekuo/.android/build-cache/bfe9d677fbc8a2dd94657fc0e7eae86d39c50b1a/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/perfumekuo/.android/build-cache/3785aa8ce9a48bc565b9cefc4003e26aabcf895b/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/perfumekuo/.android/build-cache/bfe9d677fbc8a2dd94657fc0e7eae86d39c50b1a/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/perfumekuo/.android/build-cache/bfe9d677fbc8a2dd94657fc0e7eae86d39c50b1a/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/perfumekuo/.android/build-cache/bfe9d677fbc8a2dd94657fc0e7eae86d39c50b1a/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/perfumekuo/.android/build-cache/3785aa8ce9a48bc565b9cefc4003e26aabcf895b/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/perfumekuo/.android/build-cache/bfe9d677fbc8a2dd94657fc0e7eae86d39c50b1a/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/perfumekuo/.android/build-cache/bfe9d677fbc8a2dd94657fc0e7eae86d39c50b1a/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/perfumekuo/.android/build-cache/3785aa8ce9a48bc565b9cefc4003e26aabcf895b/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/perfumekuo/.android/build-cache/3785aa8ce9a48bc565b9cefc4003e26aabcf895b/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/perfumekuo/.android/build-cache/bfe9d677fbc8a2dd94657fc0e7eae86d39c50b1a/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/perfumekuo/AndroidStudioProjects/codepath/MySimpleTwitter/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/perfumekuo/.android/build-cache/3785aa8ce9a48bc565b9cefc4003e26aabcf895b/output/res/anim/design_bottom_sheet_slide_in.xml"
+    }
+]
